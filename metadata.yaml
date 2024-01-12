@@ -1,0 +1,41 @@
+_repo: Jacob-Cats-b-Keur-uit-zijn-Verhalende-Gedichten_72533
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Vorrink, Joh.
+    alias: Vorrink, Johan
+    birthdate: 1879
+    gutenberg_agent_id: '56717'
+    url: http://www.gutenberg.org/2009/agents/56717
+creator:
+  author:
+    agent_name: Cats, Jacob
+    aliases:
+    - Kats, J. (Jakob)
+    - Kats, Jakob
+    birthdate: 1577
+    deathdate: 1660
+    gutenberg_agent_id: '32181'
+    url: http://www.gutenberg.org/2009/agents/32181
+    wikipedia: https://nl.wikipedia.org/wiki/Jacob_Cats_(dichter)
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72533'
+language: nl
+pgterms:marc905: 20201202024953cats
+pgterms:marc906: '1920'
+pgterms:marc907: NL
+production_note: produced by R.G.P.M. van Giesen
+publication_note: '  $aAmsterdam :$bJ.M. Meulenhoff, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Meulenhoff's bibliotheek van Nederlandsche schrijvers, 10
+subjects:
+- !lcsh 'Dutch poetry'
+- !lcc 'PT'
+- GITenberg
+title: 'Jacob Cats : $b Keur uit zijn Verhalende Gedichten'
+url: http://www.gutenberg.org/ebooks/72533
