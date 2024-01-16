@@ -7,6 +7,9 @@ contributor:
     birthdate: 1879
     gutenberg_agent_id: '56717'
     url: http://www.gutenberg.org/2009/agents/56717
+covers:
+- cover_type: archival
+  image_path: 72533-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Cats, Jacob
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32181
     wikipedia: https://nl.wikipedia.org/wiki/Jacob_Cats_(dichter)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72533#Jacob-Cats-b-Keur-uit-zijn-Verhalende-Gedichten
 gutenberg_issued: '2023-12-29'
 gutenberg_type: Text
 identifiers:
